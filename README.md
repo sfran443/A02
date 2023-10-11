@@ -22,4 +22,22 @@
 4. do all the intrustion while downloading it and now you have Git also
 
 
-//
+//Glossary
+**Branch**-instruction to tells the computer to begin executing different instructions rather than simply executing the instructions in order
+**Clone**- a form of copying
+**Commit**- an procces that sends the latest changes of the source code to the repository
+**Fetch**- retrieval of data by a software program or script 
+**GIT**- a system that tracks changes in any set of computer files
+**Github** - code hosting platform for version control and collaboration https://github.com/
+**Merge**-allowing multiple software developers to integrate changes into a codebase
+**Merge Conflict**- when Git is unable to resolve differences in code between two differnt commits made
+**Push**sending or uploading a code from a branch into a local source code repository
+**Pull** recicieve or takes a code from a branch into a local source code repository
+**Remote**- the ablitiy to make changes to a codebase from anywhere
+**Repository** a data structure that stores metadata for a set of files (example: Git)
+
+
+
+
+//Refrence
+https://www.tutorialspoint.com/how-to-install-webstorm-on-windows 
